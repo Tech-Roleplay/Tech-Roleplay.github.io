@@ -8,6 +8,7 @@ Links:
 
 * [Über uns](About-Us.md)
 * [Changelogs](Changelogs.md)
+* [Regelwerk🇩🇪](Regelwerk.md)
 * [RulesBook🇺🇸](rulesbook.md)
 
 
