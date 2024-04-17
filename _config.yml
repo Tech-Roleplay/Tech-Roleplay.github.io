@@ -6,6 +6,8 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+title: Tech-Roleplay
+description: Roleplay with Technoglogy
 include:
   - CONTRIBUTING.md
   - README.md
