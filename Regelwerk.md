@@ -1,5 +1,8 @@
 # <ins>Tech-Roleplay Regelwerk</ins>
 
+> [!IMPORTANT]
+> Regelwerk ist noch in Bearbeitung.
+
 Dieses Regelwerk gilt für den Tech-Roleplay, Tech-RP, Tech-RP RedM & Tech-RP DEV Server. Über die Änderungen wird per Discord informiert. Änderungen können nur vorgeschlagen werden. Die Änderungen werden nur durch die Serverleitung geändert. Zu dem vereinfachten Lesen ist alles in der männlichen Form notiert.
 
 ## 1.	Allgemeine Regeln
