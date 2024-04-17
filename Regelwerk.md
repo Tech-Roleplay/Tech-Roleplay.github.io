@@ -70,10 +70,13 @@ Die Autorität von Admins ist nicht in Frage zustellen, sollte es aber zu Proble
 
 
 ## 3. Fraktionsregelung
-(i)	Eine Fraktion besitzen immer ein Konto, ein Grundstück & eine mögliches Identifizierungsmerkmal (siehe Identifizierungsmerkmaleregelung). <br>
-(ii)	Eine Fraktion muss immer einen Leiter haben, der sich um die Verwaltung kümmert. Mehrere Unterleiter sind erlaubt.<br>
-(iii)	Jeder Spieler der darf nur von einer Fraktion Leiter sein.<br>
-(iv) 
+1. Eine Fraktion besitzen immer ein Konto, ein Grundstück & eine mögliches Identifizierungsmerkmal (siehe Identifizierungsmerkmaleregelung). <br>
+1. Eine Fraktion muss immer einen Leiter haben, der sich um die Verwaltung kümmert. Mehrere Unterleiter sind erlaubt.<br>
+1. Jeder Spieler der darf nur von einer Fraktion Leiter sein.<br>
+
+### <ins>Identifizierungsmerkmaleregelung</ins>
+
+- 
 
 
 
@@ -82,10 +85,17 @@ Die Autorität von Admins ist nicht in Frage zustellen, sollte es aber zu Proble
 
 #### Auflistung der Faktionen:
 
-
-
-
+##### Department of Justice
 - Los Santos Police Department
+- Los Santos Sheriff Department
+- Sandy Shores Police Department
+- Paleto Bay Police Department
+- Blaine County Sheriff Department
+- San Andreas State Police
+  - San Andreas Park Ranger
+  - San Andreas Highway Patrol
+- Fedural Investigation of Bureau
+- National Office of Secruity Enforcement
 
 ### 3.2 Nicht-staatliches Fraktionen
 
